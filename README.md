@@ -4,7 +4,7 @@
 
 Submitted by: **Marco Pizarro**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -16,27 +16,26 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/marcopizarro/SimpleTodo/blob/master/GIFs/normalFeatures.gif' width="200px" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Additional Feature
+<img src='https://github.com/marcopizarro/SimpleTodo/blob/master/GIFs/additionalFeature.gif' width="200px" title='Additional Features Video Walkthrough' width='' alt='Additional Features Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were no major problems I faced while developing this app. The most challenging part was getting used to Android Studio and developing with Java.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021  Marco Pizarro
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
